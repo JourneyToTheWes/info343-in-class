@@ -1,0 +1,15 @@
+html {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+table, th, td {
+  border-width: 1px;
+  border-style:solid;
+  border-color: red;
+  border: 1px dashed blue;
+}
+
+th {
+  border: 1px solid red;
+  font-family: sans-serif;
+}
